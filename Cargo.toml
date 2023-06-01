@@ -6,7 +6,7 @@ autobins = false
 authors = ["Nyk Ma <nykma@mask.io>"]
 description = "KV storage for each entity of proof_server in NextID ecosystem"
 readme = "README.org"
-repository = "https://github.com/nextdotid/relation_server"
+repository = "https://github.com/hashlabsid/relation_server"
 publish = false
 
 [[bin]]
